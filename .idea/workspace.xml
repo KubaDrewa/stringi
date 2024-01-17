@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4e01dd4-3c6f-4238-ab02-552b86603cb8" name="Changes" comment="Zaczynamy omawianie zmiennych typu string">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zmiennetypustring.py" beforeDir="false" afterPath="$PROJECT_DIR$/zmiennetypustring.py" afterDir="false" />
-    </list>
+    <list default="true" id="c4e01dd4-3c6f-4238-ab02-552b86603cb8" name="Changes" comment="Zmienne typu string 1.-7." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,11 +61,20 @@
       <option name="project" value="LOCAL" />
       <updated>1705497217207</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Zmienne typu string 1.-7.">
+      <option name="closed" value="true" />
+      <created>1705499187160</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705499187160</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Zaczynamy omawianie zmiennych typu string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zaczynamy omawianie zmiennych typu string" />
+    <MESSAGE value="Zmienne typu string 1.-7." />
+    <option name="LAST_COMMIT_MESSAGE" value="Zmienne typu string 1.-7." />
   </component>
 </project>
